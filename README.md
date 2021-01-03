@@ -1,0 +1,2 @@
+# fire.out
+treat
